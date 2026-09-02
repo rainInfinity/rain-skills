@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06ee1e60-dffb-44f5-8dda-35fd311311f7",
+  "path": "learn-codebase",
+  "path_key": "learn-codebase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "thedotmack/claude-mem/learn-codebase",
+    "subpath": "plugin/skills/learn-codebase",
+    "branch": null
+  }
+}
