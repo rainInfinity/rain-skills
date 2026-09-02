@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "4f3b9128-792f-481d-9528-21986d4f25b4",
+  "name": "Dev",
+  "description": "开发",
+  "icon": "code-2",
+  "sort_order": 999
+}

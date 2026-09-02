@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "0cb5df56-23d1-48a2-b006-00972511438f",
+  "name": "Doc",
+  "description": "文档撰写",
+  "icon": "book-open",
+  "sort_order": 999
+}
