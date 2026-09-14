@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "scenario_id": "52b65114-9ad7-4326-bbad-df32376bb273",
+  "skill_id": "2732e0b5-eab4-45db-8dcd-f75e2ef90750",
+  "sort_order": 2,
+  "tools": {
+    "antigravity": true,
+    "claude_code": true,
+    "codex": true,
+    "command_code": true,
+    "cursor": true,
+    "droid": true,
+    "gemini_cli": true,
+    "github_copilot": true,
+    "grok": true,
+    "hermes": true,
+    "kimi": true,
+    "omp_agent": true,
+    "pi": true
+  }
+}

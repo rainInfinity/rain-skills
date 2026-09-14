@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe15eaec-638a-4f9d-965b-79e398e8b110",
+  "path": "understanding-tauri-architecture",
+  "path_key": "understanding-tauri-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "dchuk/claude-code-tauri-skills/understanding-tauri-architecture",
+    "subpath": "tauri\\tauri-architecture",
+    "branch": null
+  }
+}

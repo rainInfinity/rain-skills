@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7120fbac-8035-451f-9d4c-f68718d6b7d0",
+  "path": "typescript-best-practices",
+  "path_key": "typescript-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "0xbigboss/claude-code/typescript-best-practices",
+    "subpath": ".claude\\skills\\typescript-best-practices",
+    "branch": null
+  }
+}

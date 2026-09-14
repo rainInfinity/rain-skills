@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2792de13-69c0-441e-83a9-b3140ea8fda1",
+  "path": "tauri-event-system",
+  "path_key": "tauri-event-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "bobmatnyc/claude-mpm-skills/tauri-event-system",
+    "subpath": "toolchains\\rust\\frameworks\\tauri",
+    "branch": null
+  }
+}

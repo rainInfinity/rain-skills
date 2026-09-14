@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2732e0b5-eab4-45db-8dcd-f75e2ef90750",
+  "path": "pptx",
+  "path_key": "pptx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "anthropics/skills/pptx",
+    "subpath": "skills\\pptx",
+    "branch": null
+  }
+}

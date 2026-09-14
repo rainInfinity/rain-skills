@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e4544aed-ec66-45c6-8ed6-d93d8dc7e885",
+  "path": "react-native-update",
+  "path_key": "react-native-update",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "reactnativecn/react-native-update-skill/react-native-update",
+    "subpath": "skill\\react-native-update",
+    "branch": null
+  }
+}

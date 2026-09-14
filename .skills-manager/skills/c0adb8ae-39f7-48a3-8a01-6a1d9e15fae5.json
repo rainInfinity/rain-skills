@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0adb8ae-39f7-48a3-8a01-6a1d9e15fae5",
+  "path": "react-best-practices",
+  "path_key": "react-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "0xbigboss/claude-code/react-best-practices",
+    "subpath": ".claude\\skills\\react-best-practices",
+    "branch": null
+  }
+}

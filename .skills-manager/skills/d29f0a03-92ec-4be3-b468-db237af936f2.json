@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d29f0a03-92ec-4be3-b468-db237af936f2",
+  "path": "tauri-v2",
+  "path_key": "tauri-v2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "nodnarbnitram/claude-code-extensions/tauri-v2",
+    "subpath": ".claude\\skills\\tauri-v2",
+    "branch": null
+  }
+}

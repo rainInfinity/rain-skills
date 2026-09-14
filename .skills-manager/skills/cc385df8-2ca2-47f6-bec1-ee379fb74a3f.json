@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc385df8-2ca2-47f6-bec1-ee379fb74a3f",
+  "path": "web-component-design",
+  "path_key": "web-component-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/web-component-design",
+    "subpath": "plugins\\ui-design\\skills\\web-component-design",
+    "branch": null
+  }
+}
