@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f70b4527-69ec-49ab-bec3-dac066c9c11b",
+  "path": "diagram-design",
+  "path_key": "diagram-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "cathrynlavery/diagram-design/diagram-design",
+    "subpath": "skills\\diagram-design",
+    "branch": null
+  }
+}
