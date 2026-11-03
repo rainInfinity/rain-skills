@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d881d56-ce63-4dd7-99aa-f460a80d5841",
+  "path": "frontend-slides",
+  "path_key": "frontend-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "zarazhangrui/frontend-slides/frontend-slides",
+    "subpath": "plugins/frontend-slides/skills/frontend-slides",
+    "branch": null
+  }
+}
